@@ -1,0 +1,25 @@
+# Flutter generated files
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub/
+build/
+
+# Android / Gradle generated files
+.gradle/
+**/.gradle/
+**/build/
+android/local.properties
+
+# IDE files
+.idea/
+.vscode/
+
+# Secrets and signing files
+.env
+.env.*
+!.env.example
+*.jks
+*.keystore
+**/.cxx/
